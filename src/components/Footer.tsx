@@ -26,7 +26,7 @@ export default function Footer() {
         <p>
           Source on{' '}
           <a
-            href="https://github.com/jones58/right-to-city"
+            href="https://github.com/jackkershaw/right-to-city"
             target="_blank"
             className="font-body hover:opacity-70"
             aria-label="link to the Vital Signs Magazine GitHub repository"
